@@ -1,0 +1,27 @@
+.container{
+    padding-top: 100px;
+    width: 86%;
+    margin: auto;
+}
+h4{
+    color:rgb(109, 90, 90);
+    font-weight: 600;
+}
+table td{
+    color:#070505;
+    font-size: 16px;
+    font-weight: 600;
+}
+label{
+    color: black;
+    font-weight: 500;
+}
+.row{
+    padding: 50px 40px;
+    background-color: #f4ecec;
+    border-radius: 15px;
+    box-shadow: 0 25px 31px rgba(0, 0, 0, 0.5);
+
+}
+input{
+}
