@@ -63,4 +63,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
   1.In terminal just run the following code:
   a. php artisan migrate
   b. php artisan key:generate
+  c. php artisan serve    // to run project 
 
